@@ -8,3 +8,8 @@
 yarn install
 
 yarn start:dev
+
+全局安装 mysql
+建库命名为 blog
+.env 为数据库的相关配置
+切换到本地真实数据库配置即可使用
